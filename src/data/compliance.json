@@ -1,0 +1,234 @@
+{
+  "id": "KOMP-001",
+  "version": "1.0",
+  "title": "Medizinische Kompressionsstrümpfe",
+  "krankenkasse": "AOK Rheinland-Pfalz/Saarland",
+  "steps": [
+    {
+      "id": "usage",
+      "mandatory": true,
+      "type": "information",
+      "translations": {
+        "de": {
+          "title": "Verwendung",
+          "content": "Ihre Kompressionsstrümpfe müssen entsprechend der ärztlichen Verordnung getragen werden. Wir erklären Ihnen jetzt die richtige Anwendung. Tragen Sie die Strümpfe täglich während der Aktivitätsphasen und nehmen Sie sie nachts ab. Die Kompressionswirkung entfaltet sich nur bei regelmäßigem Tragen.",
+          "explanation": "Kompressionsstrümpfe üben einen gezielten Druck auf Ihre Beine aus. Dieser Druck unterstützt den Rücktransport des Blutes zum Herzen und beugt Schwellungen vor. Damit die Therapie wirkt, ist es wichtig, dass Sie die Strümpfe so lange tragen, wie es Ihr Arzt verordnet hat – meist tagsüber von morgens bis abends."
+        },
+        "en": {
+          "title": "Usage",
+          "content": "Your compression stockings must be worn as prescribed by your doctor. We will now explain the correct use. Wear the stockings daily during activity periods and remove them at night. The compression effect only develops with regular wear.",
+          "explanation": "Compression stockings apply targeted pressure to your legs. This pressure supports the return of blood to the heart and prevents swelling. For the therapy to be effective, it is important to wear the stockings for as long as your doctor has prescribed — usually during the day from morning to evening."
+        },
+        "pl": {
+          "title": "Stosowanie",
+          "content": "Pończochy kompresyjne należy nosić zgodnie z zaleceniem lekarza. Wyjaśnimy teraz prawidłowe stosowanie. Noś pończochy codziennie w godzinach aktywności i zdejmuj na noc. Działanie kompresyjne występuje tylko przy regularnym noszeniu.",
+          "explanation": "Pończochy kompresyjne wywierają ukierunkowany nacisk na nogi. To ciśnienie wspomaga transport krwi z powrotem do serca i zapobiega obrzękom. Aby terapia była skuteczna, ważne jest noszenie pończoch tak długo, jak zalecił lekarz – zwykle w ciągu dnia od rana do wieczora."
+        },
+        "uk": {
+          "title": "Використання",
+          "content": "Компресійні панчохи необхідно носити відповідно до лікарського призначення. Ми пояснимо вам правильне використання. Носіть панчохи щодня в періоди активності та знімайте на ніч. Компресійний ефект досягається лише при регулярному носінні.",
+          "explanation": "Компресійні панчохи створюють спрямований тиск на ваші ноги. Цей тиск підтримує зворотний транспорт крові до серця та запобігає набрякам. Щоб терапія була ефективною, важливо носити панчохи стільки, скільки призначив лікар – зазвичай вдень з ранку до вечора."
+        },
+        "tr": {
+          "title": "Kullanım",
+          "content": "Kompresyon çoraplarınızı doktorunuzun reçete ettiği şekilde giymeniz gerekmektedir. Şimdi size doğru kullanımı açıklayacağız. Çorapları günlük aktivite dönemlerinde giyin ve gece çıkarın. Kompresyon etkisi yalnızca düzenli kullanımda ortaya çıkar.",
+          "explanation": "Kompresyon çorapları bacaklarınıza hedefli bir basınç uygular. Bu basınç kanın kalbe geri taşınmasını destekler ve şişmeyi önler. Terapinin etkili olması için çorapları doktorunuzun önerdiği süre boyunca - genellikle gündüz sabah akşam - giymeniz önemlidir."
+        },
+        "ar": {
+          "title": "الاستخدام",
+          "content": "يجب ارتداء جوارب الضغط وفقًا للوصفة الطبية. سنشرح لك الآن الاستخدام الصحيح. ارتدِ الجوارب يوميًا خلال فترات النشاط واخلعها ليلاً. يتطور تأثير الضغط فقط عند الارتداء المنتظم.",
+          "explanation": "تمارس جوارب الضغط ضغطًا موجهًا على ساقيك. يدعم هذا الضغط إعادة نقل الدم إلى القلب ويمنع التورم. لكي يكون العلاج فعالاً، من المهم ارتداء الجوارب للمدة التي يصفها طبيبك - عادةً خلال النهار من الصباح حتى المساء."
+        }
+      },
+      "source": {
+        "rule": "KOMP-001-01",
+        "contract": "Vertrag nach §127 SGB V",
+        "productGroup": "17 – Medizinische Kompressionsstrümpfe",
+        "requirement": "Versicherte müssen über die bestimmungsgemäße Verwendung und Anwendung der Hilfsmittel informiert werden.",
+        "source": "Rahmenvertrag Hilfsmittelversorgung §127 SGB V, Anlage 1, Abschnitt 3.1",
+        "validSince": "01.01.2024"
+      }
+    },
+    {
+      "id": "dressing",
+      "mandatory": true,
+      "type": "information",
+      "translations": {
+        "de": {
+          "title": "An- und Ausziehen",
+          "content": "Das An- und Ausziehen von Kompressionsstrümpfen erfordert etwas Übung. Wir zeigen Ihnen die richtige Technik. Ziehen Sie die Strümpfe morgens direkt nach dem Aufstehen an, bevor sich Schwellungen bilden. Verwenden Sie bei Bedarf An- und Ausziehhilfen.",
+          "explanation": "Da die Beine morgens am wenigsten geschwollen sind, ist das Anziehen direkt nach dem Aufstehen am einfachsten. Anziehhilfen (z.B. ein Gleitrahmen oder Anziehsocken) erleichtern das Anlegen erheblich und schonen gleichzeitig das Material der Strümpfe. Ausziehhilfen mit Griffband erleichtern das Ablegen."
+        },
+        "en": {
+          "title": "Putting On and Taking Off",
+          "content": "Putting on and taking off compression stockings takes some practice. We will show you the correct technique. Put the stockings on in the morning right after getting up, before swelling develops. Use aids for putting on and taking off if needed.",
+          "explanation": "Since the legs are least swollen in the morning, putting them on right after getting up is easiest. Donning aids (e.g., a slip frame or donning sock) make application much easier while protecting the stocking material. Removing aids with grip straps make taking them off easier."
+        },
+        "pl": {
+          "title": "Zakładanie i zdejmowanie",
+          "content": "Zakładanie i zdejmowanie pończoch kompresyjnych wymaga nieco wprawy. Pokażemy Ci prawidłową technikę. Zakładaj pończochy rano zaraz po wstaniu, zanim pojawią się obrzęki. W razie potrzeby używaj pomocy do zakładania i zdejmowania.",
+          "explanation": "Ponieważ nogi są najmniej opuchnięte rano, zakładanie zaraz po wstaniu jest najłatwiejsze. Pomocne narzędzia (np. rama ślizgowa lub skarpeta pomocnicza) znacznie ułatwiają zakładanie i jednocześnie chronią materiał pończoch."
+        },
+        "uk": {
+          "title": "Надягання та знімання",
+          "content": "Надягання та знімання компресійних панчіх потребує певної практики. Ми покажемо вам правильну техніку. Надягайте панчохи вранці одразу після вставання, до появи набряків. За потреби використовуйте допоміжні засоби для надягання та знімання.",
+          "explanation": "Оскільки ноги найменш набряклі вранці, надягання одразу після вставання є найлегшим. Допоміжні засоби (наприклад, ковзна рамка або допоміжна шкарпетка) значно полегшують надягання та одночасно захищають матеріал панчіх."
+        },
+        "tr": {
+          "title": "Giyme ve Çıkarma",
+          "content": "Kompresyon çoraplarını giyip çıkarmak biraz pratik gerektirir. Size doğru tekniği göstereceğiz. Çorapları sabah kalkar kalkmaz, şişlik oluşmadan giyin. Gerektiğinde giyme ve çıkarma yardımcıları kullanın.",
+          "explanation": "Bacaklar en az sabah şiştiğinden, kalkar kalkmaz giymek en kolayıdır. Yardımcı araçlar (örn. kayar çerçeve veya yardımcı çorap) giymeyi önemli ölçüde kolaylaştırır ve aynı zamanda çorap malzemesini korur."
+        },
+        "ar": {
+          "title": "الارتداء والخلع",
+          "content": "يتطلب ارتداء وخلع جوارب الضغط بعض الممارسة. سنعرض لك التقنية الصحيحة. ارتدِ الجوارب في الصباح مباشرة بعد الاستيقاظ، قبل ظهور التورم. استخدم وسائل المساعدة عند الحاجة.",
+          "explanation": "نظرًا لأن الساقين تكونان أقل تورمًا في الصباح، فإن الارتداء مباشرة بعد الاستيقاظ هو الأسهل. تساعد الأدوات المساعدة (مثل الإطار المنزلق أو الجورب المساعد) في تسهيل الارتداء بشكل كبير وفي نفس الوقت تحمي مادة الجوارب."
+        }
+      },
+      "source": {
+        "rule": "KOMP-001-02",
+        "contract": "Vertrag nach §127 SGB V",
+        "productGroup": "17 – Medizinische Kompressionsstrümpfe",
+        "requirement": "Versicherte müssen über die sachgerechte Handhabung inklusive An- und Ausziehen der Hilfsmittel unterwiesen werden.",
+        "source": "Rahmenvertrag Hilfsmittelversorgung §127 SGB V, Anlage 1, Abschnitt 3.2",
+        "validSince": "01.01.2024"
+      }
+    },
+    {
+      "id": "care",
+      "mandatory": true,
+      "type": "information",
+      "translations": {
+        "de": {
+          "title": "Pflege und Reinigung",
+          "content": "Kompressionsstrümpfe müssen regelmäßig gereinigt werden, um ihre Wirkung zu erhalten. Waschen Sie die Strümpfe täglich per Hand mit milder Seife oder im Schonwaschgang bei 30°C. Verwenden Sie keinen Weichspüler und geben Sie die Strümpfe nicht in den Trockner.",
+          "explanation": "Durch regelmäßiges Waschen werden Hautschuppen, Schweiß und Bakterien entfernt. Dies beugt Hautirritationen vor und erhält die Elastizität des Gestricks. Weichspüler und Trockner beschädigen die Elastanfasern, wodurch die Kompressionswirkung nachlässt. Ersetzen Sie Ihre Strümpfe alle 6 Monate, da die Kompressionskraft mit der Zeit nachlässt."
+        },
+        "en": {
+          "title": "Care and Cleaning",
+          "content": "Compression stockings must be cleaned regularly to maintain their effectiveness. Wash the stockings daily by hand with mild soap or on a delicate cycle at 30°C. Do not use fabric softener and do not put them in the dryer.",
+          "explanation": "Regular washing removes skin flakes, sweat, and bacteria. This prevents skin irritation and maintains the elasticity of the knit. Fabric softener and dryers damage the elastane fibers, reducing the compression effect. Replace your stockings every 6 months as the compression force decreases over time."
+        },
+        "pl": {
+          "title": "Pielęgnacja i czyszczenie",
+          "content": "Pończochy kompresyjne należy regularnie czyścić, aby zachować ich skuteczność. Pierz pończochy codziennie ręcznie w łagodnym mydle lub w praniu delikatnym w 30°C. Nie używaj płynu zmiękczającego ani suszarki bębnowej.",
+          "explanation": "Regularne pranie usuwa łuszczący się naskórek, pot i bakterie. Zapobiega to podrażnieniom skóry i utrzymuje elastyczność dzianiny. Płyn zmiękczający i suszarka uszkadzają włókna elastanu, co osłabia działanie kompresyjne."
+        },
+        "uk": {
+          "title": "Догляд та очищення",
+          "content": "Компресійні панчохи необхідно регулярно чистити для збереження їх ефективності. Періть панчохи щодня вручну м'яким милом або в делікатному режимі при 30°C. Не використовуйте кондиціонер для білизни та не сушіть у сушильній машині.",
+          "explanation": "Регулярне прання видаляє відмерлі клітини шкіри, піт і бактерії. Це запобігає подразненню шкіри та зберігає еластичність трикотажу. Кондиціонер для білизни та сушильна машина пошкоджують еластанові волокна, що послаблює компресійний ефект."
+        },
+        "tr": {
+          "title": "Bakım ve Temizlik",
+          "content": "Kompresyon çoraplarının etkinliğini korumak için düzenli olarak temizlenmesi gerekir. Çorapları her gün hafif sabunla elde veya 30°C'de hassas yıkamada yıkayın. Yumuşatıcı kullanmayın ve kurutucuya koymayın.",
+          "explanation": "Düzenli yıkama, deri pullarını, teri ve bakterileri temizler. Bu, cilt tahrişini önler ve örgünün elastikiyetini korur. Yumuşatıcı ve kurutucu, elastan liflerine zarar vererek kompresyon etkisini zayıflatır."
+        },
+        "ar": {
+          "title": "العناية والتنظيف",
+          "content": "يجب تنظيف جوارب الضغط بانتظام للحفاظ على فعاليتها. اغسل الجوارب يوميًا يدويًا بصابون معتدل أو في دورة غسيل حساسة عند 30 درجة مئوية. لا تستخدم منعم الأقمشة ولا تضعها في المجفف.",
+          "explanation": "يزيل الغسيل المنتظم خلايا الجلد الميتة والعرق والبكتيريا. هذا يمنع تهيج الجلد ويحافظ على مرونة النسيج. منعم الأقمشة والمجفف يتلفان ألياف الإيلاستان مما يضعف تأثير الضغط."
+        }
+      },
+      "source": {
+        "rule": "KOMP-001-03",
+        "contract": "Vertrag nach §127 SGB V",
+        "productGroup": "17 – Medizinische Kompressionsstrümpfe",
+        "requirement": "Versicherte müssen über Pflege, Reinigung und Haltbarkeit der Hilfsmittel informiert werden.",
+        "source": "Rahmenvertrag Hilfsmittelversorgung §127 SGB V, Anlage 1, Abschnitt 3.3",
+        "validSince": "01.01.2024"
+      }
+    },
+    {
+      "id": "problems",
+      "mandatory": true,
+      "type": "information",
+      "translations": {
+        "de": {
+          "title": "Verhalten bei Problemen",
+          "content": "Bei Hautveränderungen, Taubheitsgefühlen, starken Schmerzen oder deutlich sichtbaren Druckstellen unter den Strümpfen suchen Sie bitte umgehend Ihren Arzt oder Ihr Sanitätshaus auf. Kontrollieren Sie täglich Ihre Haut auf Rötungen oder Druckstellen.",
+          "explanation": "Kompressionsstrümpfe üben starken Druck aus. Wenn sie nicht richtig sitzen oder falten, können sie Druckstellen verursachen. Auch Kribbeln oder Taubheitsgefühle können auf eine falsche Passform hinweisen. Zögern Sie nicht, professionelle Hilfe zu suchen – eine Anpassung kann oft schnell Abhilfe schaffen."
+        },
+        "en": {
+          "title": "What to Do About Problems",
+          "content": "If you experience skin changes, numbness, severe pain, or clearly visible pressure marks under the stockings, please consult your doctor or medical supply store immediately. Check your skin daily for redness or pressure marks.",
+          "explanation": "Compression stockings exert strong pressure. If they do not fit properly or wrinkle, they can cause pressure points. Tingling or numbness may also indicate an incorrect fit. Do not hesitate to seek professional help — an adjustment can often provide quick relief."
+        },
+        "pl": {
+          "title": "Postępowanie w przypadku problemów",
+          "content": "W przypadku zmian skórnych, drętwienia, silnego bólu lub widocznych odcisków pod pończochami należy niezwłocznie skontaktować się z lekarzem lub sklepem medycznym. Codziennie kontroluj skórę pod kątem zaczerwienień lub odcisków.",
+          "explanation": "Pończochy kompresyjne wywierają silny nacisk. Jeśli nie są prawidłowo dopasowane lub tworzą fałdy, mogą powodować odciski. Mrowienie lub drętwienie może również wskazywać na nieprawidłowe dopasowanie."
+        },
+        "uk": {
+          "title": "Дії при проблемах",
+          "content": "У разі змін шкіри, оніміння, сильного болю або видимих слідів тиску під панчохами негайно зверніться до лікаря або в магазин медичних засобів. Щодня перевіряйте шкіру на почервоніння або сліди тиску.",
+          "explanation": "Компресійні панчохи створюють сильний тиск. Якщо вони неправильно підігнані або утворюють складки, вони можуть спричинити сліди тиску. Поколювання або оніміння також можуть вказувати на неправильну підгонку."
+        },
+        "tr": {
+          "title": "Sorunlarda Davranış",
+          "content": "Cilt değişiklikleri, uyuşma, şiddetli ağrı veya çorap altında belirgin basınç noktaları durumunda derhal doktorunuza veya tıbbi malzeme mağazasına başvurun. Cildinizi günlük olarak kızarıklık veya basınç noktaları açısından kontrol edin.",
+          "explanation": "Kompresyon çorapları güçlü basınç uygular. Doğru oturmazlarsa veya kıvrım oluştururlarsa basınç noktalarına neden olabilirler. Karıncalanma veya uyuşma da yanlış uyumu gösterebilir."
+        },
+        "ar": {
+          "title": "التصرف عند المشاكل",
+          "content": "في حالة تغيرات الجلد أو التنميل أو الألم الشديد أو علامات الضغط الواضحة تحت الجوارب، يرجى الاتصال بطبيبك أو متجر المستلزمات الطبية فورًا. افحص بشرتك يوميًا بحثًا عن احمرار أو علامات ضغط.",
+          "explanation": "تمارس جوارب الضغط ضغطًا قويًا. إذا لم تكن مناسبة بشكل صحيح أو شكلت ثنيات، فقد تسبب علامات ضغط. قد يشير الوخز أو التنميل أيضًا إلى عدم مناسبة المقاس."
+        }
+      },
+      "source": {
+        "rule": "KOMP-001-04",
+        "contract": "Vertrag nach §127 SGB V",
+        "productGroup": "17 – Medizinische Kompressionsstrümpfe",
+        "requirement": "Versicherte müssen über mögliche Komplikationen und das richtige Verhalten bei Problemen aufgeklärt werden.",
+        "source": "Rahmenvertrag Hilfsmittelversorgung §127 SGB V, Anlage 1, Abschnitt 4.1",
+        "validSince": "01.01.2024"
+      }
+    },
+    {
+      "id": "standard-vs-extra",
+      "mandatory": true,
+      "type": "choice",
+      "choices": ["Standardversorgung gewählt", "Mehrleistung besprochen"],
+      "translations": {
+        "de": {
+          "title": "Standardversorgung und Mehrleistungen",
+          "content": "Ihre Krankenkasse übernimmt die Kosten für die medizinisch notwendige Standardversorgung. Es können optionale Mehrleistungen (z.B. Kompressionsstrümpfe in besonderen Farben oder mit zusätzlichen Funktionsmerkmalen) gegen Aufzahlung angeboten werden. Bitte treffen Sie Ihre Wahl.",
+          "explanation": "Der Gesetzgeber schreibt vor, dass Sie über die aufzahlungsfreie Versorgung informiert werden müssen, bevor Sie sich für eine kostenpflichtige Mehrleistung entscheiden. Dies stellt sicher, dass Sie eine informierte Wahl treffen können. Die Standardversorgung erfüllt alle medizinischen Anforderungen und wird vollständig von Ihrer Krankenkasse bezahlt."
+        },
+        "en": {
+          "title": "Standard Provision and Additional Services",
+          "content": "Your health insurer covers the cost of the medically necessary standard provision. Optional additional services (e.g., compression stockings in special colors or with additional functional features) may be offered for an extra charge. Please make your choice.",
+          "explanation": "The law requires that you be informed about the cost-free standard provision before deciding on a paid additional service. This ensures you can make an informed choice. The standard provision meets all medical requirements and is fully covered by your health insurance."
+        },
+        "pl": {
+          "title": "Świadczenie standardowe i usługi dodatkowe",
+          "content": "Twoje ubezpieczenie zdrowotne pokrywa koszty medycznie niezbędnego świadczenia standardowego. Mogą być oferowane opcjonalne usługi dodatkowe (np. pończochy kompresyjne w specjalnych kolorach lub z dodatkowymi funkcjami) za dodatkową opłatą. Proszę dokonać wyboru.",
+          "explanation": "Przepisy wymagają, abyś został poinformowany o bezpłatnym świadczeniu przed podjęciem decyzji o płatnej usłudze dodatkowej. Zapewnia to możliwość podjęcia świadomej decyzji."
+        },
+        "uk": {
+          "title": "Стандартне забезпечення та додаткові послуги",
+          "content": "Ваша медична страхова компанія покриває витрати на медично необхідне стандартне забезпечення. Можуть пропонуватися додаткові послуги (наприклад, компресійні панчохи особливих кольорів або з додатковими функціями) за додаткову плату. Будь ласка, зробіть свій вибір.",
+          "explanation": "Закон вимагає, щоб вас проінформували про безкоштовне забезпечення до прийняття рішення про платну додаткову послугу. Це гарантує, що ви можете прийняти обґрунтоване рішення."
+        },
+        "tr": {
+          "title": "Standart Tedarik ve Ek Hizmetler",
+          "content": "Sağlık sigortanız tıbben gerekli standart tedarikin maliyetini karşılar. Ek ücret karşılığında isteğe bağlı ek hizmetler (örneğin özel renklerde veya ek fonksiyonel özelliklerde kompresyon çorapları) sunulabilir. Lütfen seçiminizi yapın.",
+          "explanation": "Yasa, ücretli bir ek hizmete karar vermeden önce ücretsiz tedarik hakkında bilgilendirilmenizi şart koşar. Bu, bilinçli bir seçim yapmanızı sağlar."
+        },
+        "ar": {
+          "title": "التزويد القياسي والخدمات الإضافية",
+          "content": "تغطي شركة التأمين الصحي الخاصة بك تكلفة التزويد القياسي الضروري طبياً. يمكن تقديم خدمات إضافية اختيارية (مثل جوارب ضغط بألوان خاصة أو بميزات وظيفية إضافية) مقابل رسوم إضافية. يرجى اتخاذ اختيارك.",
+          "explanation": "يطلب القانون إعلامك بالتزويد المجاني قبل اتخاذ قرار بشأن الخدمة الإضافية المدفوعة. وهذا يضمن أنك تستطيع اتخاذ قرار مستنير."
+        }
+      },
+      "source": {
+        "rule": "KOMP-001-05",
+        "contract": "Vertrag nach §127 SGB V",
+        "productGroup": "17 – Medizinische Kompressionsstrümpfe",
+        "requirement": "Versicherte müssen über die aufzahlungsfreie Versorgung und mögliche Mehrleistungen informiert werden.",
+        "source": "Rahmenvertrag Hilfsmittelversorgung §127 SGB V, Anlage 1, Abschnitt 5.1",
+        "validSince": "01.01.2024"
+      }
+    }
+  ]
+}
