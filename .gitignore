@@ -1,5 +1,3 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
 # dependencies
 /node_modules
 /.pnp
@@ -13,29 +11,42 @@
 # testing
 /coverage
 
-# next.js
+# next.js build output
 /.next/
 /out/
 
 # production
 /build
 
-# misc
+# macOS
 .DS_Store
-*.pem
+.AppleDouble
+.LSOverride
+*~
+._*
 
-# debug
+# logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
+*.log
 
 # env files (can opt-in for committing if needed)
 .env*
+!.env.example
 
-# vercel
+# local config / editors
 .vercel
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.swp
+*.swo
 
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# generated audio temp files (scripts/generate-audio.js writes to /tmp, but just in case)
+/tmp/gkv_*.aiff
