@@ -49,4 +49,4 @@ yarn-error.log*
 next-env.d.ts
 
 # generated audio temp files (scripts/generate-audio.js writes to /tmp, but just in case)
-/tmp/gkv_*.aiff
+/tmp/gkv_*.aiffREADME_backup.md
