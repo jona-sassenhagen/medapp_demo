@@ -30,6 +30,107 @@ export const employeeLabels = {
   von: "von",
 };
 
+// For the workbench / landing page (selectable language, default German)
+const landingBase = {
+  title: "GKV Compliance-Assistent",
+  subtitle: "Multilinguale Patientenberatung",
+  sectionWorkflows: "Vorhandene Workflows",
+  sectionNew: "Neuer Workflow",
+  createWorkflow: "Neuen Workflow erstellen",
+  steps: "Schritte",
+  version: "Version",
+  open: "Öffnen",
+  comingSoonBadge: "In Vorbereitung",
+  comingSoon:
+    "Das Erstellen neuer Workflows befindet sich gerade im Aufbau.",
+  photoHint:
+    "Fotografieren Sie Ihre vorhandenen papierbasierten Compliance-Workflows oder Formulare, um automatisch einen neuen digitalen Workflow zu erstellen.",
+  backToOverview: "Zur Übersicht",
+};
+
+export type LandingLabels = typeof landingBase;
+
+export const landingLabels: Record<Language, LandingLabels> = {
+  de: landingBase,
+  en: {
+    title: "GKV Compliance Assistant",
+    subtitle: "Multilingual patient consultation",
+    sectionWorkflows: "Existing workflows",
+    sectionNew: "New workflow",
+    createWorkflow: "Create a new workflow",
+    steps: "steps",
+    version: "Version",
+    open: "Open",
+    comingSoonBadge: "Coming soon",
+    comingSoon: "Creating new workflows is currently under construction.",
+    photoHint:
+      "Take a photo of your existing paper compliance workflows or forms to automatically generate a new digital workflow.",
+    backToOverview: "Back to overview",
+  },
+  pl: {
+    title: "Asystent zgodności GKV",
+    subtitle: "Wielojęzyczna konsultacja pacjentów",
+    sectionWorkflows: "Istniejące przepływy pracy",
+    sectionNew: "Nowy przepływ pracy",
+    createWorkflow: "Utwórz nowy przepływ pracy",
+    steps: "kroków",
+    version: "wersja",
+    open: "Otwórz",
+    comingSoonBadge: "Wkrótce",
+    comingSoon:
+      "Tworzenie nowych przepływów pracy jest obecnie w przygotowaniu.",
+    photoHint:
+      "Zrób zdjęcie swoich istniejących papierowych przepływów pracy lub formularzy zgodności, aby automatycznie wygenerować nowy cyfrowy przepływ pracy.",
+    backToOverview: "Przegląd",
+  },
+  uk: {
+    title: "GKV асистент відповідності",
+    subtitle: "Багатомовна консультація пацієнтів",
+    sectionWorkflows: "Наявні робочі процеси",
+    sectionNew: "Новий робочий процес",
+    createWorkflow: "Створити новий робочий процес",
+    steps: "кроків",
+    version: "версія",
+    open: "Відкрити",
+    comingSoonBadge: "Незабаром",
+    comingSoon:
+      "Створення нових робочих процесів наразі розробляється.",
+    photoHint:
+      "Зробіть фото своїх наявних паперових робочих процесів або форм відповідності, щоб автоматично створити новий цифровий робочий процес.",
+    backToOverview: "Огляд",
+  },
+  tr: {
+    title: "GKV Uygunluk Asistanı",
+    subtitle: "Çok dilli hasta danışmanlığı",
+    sectionWorkflows: "Mevcut iş akışları",
+    sectionNew: "Yeni iş akışı",
+    createWorkflow: "Yeni bir iş akışı oluşturun",
+    steps: "adım",
+    version: "sürüm",
+    open: "Aç",
+    comingSoonBadge: "Yakında",
+    comingSoon: "Yeni iş akışları oluşturma şu anda hazırlanıyor.",
+    photoHint:
+      "Mevcut kâğıt tabanlı iş akışlarınızın veya uyum formlarınızın fotoğrafını çekerek otomatik olarak yeni bir dijital iş akışı oluşturun.",
+    backToOverview: "Genel bakış",
+  },
+  ar: {
+    title: "مساعد امتثال GKV",
+    subtitle: "استشارة المرضى بلغات متعددة",
+    sectionWorkflows: "سير العمل الحالية",
+    sectionNew: "سير عمل جديد",
+    createWorkflow: "إنشاء سير عمل جديد",
+    steps: "خطوات",
+    version: "الإصدار",
+    open: "فتح",
+    comingSoonBadge: "قريبًا",
+    comingSoon: "إنشاء سير عمل جديد قيد الإعداد حاليًا.",
+    photoHint:
+      "التقط صورة لنماذج الامتثال أو سير العمل الورقية الحالية لديك لإنشاء سير عمل رقمي جديد تلقائيًا.",
+    backToOverview: "نظرة عامة",
+  },
+};
+
 export const patientLabels: Record<Language, Record<string, string>> = {
   de: {
     title: "Patientenberatung",

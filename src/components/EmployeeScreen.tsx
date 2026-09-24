@@ -18,7 +18,7 @@ export default function EmployeeScreen({ session, onStart }: Props) {
     onStart({
       ...session,
       phase: "consultation",
-      language: "de",
+      language: session.language ?? "de",
       patientName,
       krankenkasse,
       versorgung,
